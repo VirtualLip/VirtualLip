@@ -4,7 +4,7 @@ Utilize deep learning models to recognize face and detect lip position to find o
 Front-end Design: React Native and Native Base
 
 Back-end Design: PostgreSQL, Heroku, AWS
-
+![image](https://github.com/VirtualLip/VirtualLip/blob/master/img/demo.PNG)
 ## Completeness Feature
 1. Sign in/out (AWS Amplify)
 Provide an login user interface for user
